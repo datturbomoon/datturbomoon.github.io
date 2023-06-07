@@ -1,5 +1,5 @@
-On progress...
-But you can see it live [here](https://dianapadre.github.io).
+In progress...
+But you can view it live [here](https://dianapadre.github.io).
 
 ![screenshot image](image.png)
 
