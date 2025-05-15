@@ -1,5 +1,4 @@
-In progress...
-But you can view it live [here](https://dianapadre.github.io).
+View the live website sample [here](https://dianapadre.github.io).
 
 ![screenshot image](image.png)
 
